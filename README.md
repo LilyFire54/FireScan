@@ -13,7 +13,7 @@ FireScan is a lightweight Python-based port scanner built to demonstrate cyberse
 
 ## 🚀 How to Use
 1. Clone the repo:
-git clone https://github.com/LilyFire54/firescan.git
+git clone https://github.com/LilyFire54/FireScan
 cd firescan
 
 2. Install dependencies:
